@@ -1,0 +1,16 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "Node.js CLI app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "nanoid": "^5.1.2"
+  }
+}
